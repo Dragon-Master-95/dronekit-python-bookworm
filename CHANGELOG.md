@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.9.2b (2025-11-07)
+
+* Now compatible with Python 3.11 for Rasbian Bookworm OS atleast.
 
 ## Version 2.9.2 (2019-03-18)
 
