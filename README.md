@@ -1,6 +1,6 @@
 ## Overview
 
-DroneKit-Python (formerly DroneAPI-Python) contains the python language implementation of DroneKit.
+Dronekit-Python-Bookworm contains modified DroneKit platform of formerly known DroneKit python module tailored to be compatible with Rasbian Bookworm OS.
 
 The API allows developers to create Python apps that communicate with vehicles over MAVLink. It provides programmatic access to a connected vehicle's telemetry, state and parameter information, and enables both mission management and direct control over vehicle movement and operations.
 
